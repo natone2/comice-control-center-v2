@@ -1,5 +1,5 @@
 .mainwindow {
-    background: rgba(255,255,255,0.25);
+    background: rgba(255, 255, 255, 0.137);
     background-image: url("../icons/bg.png");
     background-blend-mode: screen;
     border-radius: 12px;
@@ -7,7 +7,7 @@
 }
 
 .styledwidgetbox {
-    background: rgba(205,205,205,0.9);
+    background: rgba(205, 205, 205, 0.61);
     border-radius: 12px;
 }
 
