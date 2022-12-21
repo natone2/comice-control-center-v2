@@ -12,7 +12,7 @@ I have modified the code to work on distros related to debian, more specifically
 
 1. Install build dependencies:
 ```bash
-sudo dnf install python3 python3-dbus util-linux gsettings-desktop-schemas wireless-tools iproute alsa-utils
+sudo apt install python3 python3-dbus util-linux gsettings-desktop-schemas wireless-tools alsa-utils
 ```
 2. Install python3 (pip) dependencies:
 ```bash
