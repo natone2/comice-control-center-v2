@@ -5,7 +5,7 @@ I have modified the code to work on distros related to debian, more specifically
 
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/natone2/comice-control-center/main/screenshots/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/natone2/comice-control-center-v2/main/screenshots/screenshot.png)
 
 
 ## Compilation
