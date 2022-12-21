@@ -25,8 +25,9 @@ sudo pip3 install -r requirements.txt
 
 ## Changelog
 **Version 0.0.2**
-* First version
-* Implemented widgets for connections, sound volume and monitor brightness
+* Modified version
+* BT Error solved
+* Reimplemented widgets for connections, sound volume and monitor brightness
 * Reusable functions
 
 this is a revision of the GPLv3-licensed https://github.com/libredeb/comice-control-center code.
